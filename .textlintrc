@@ -1,0 +1,11 @@
+{
+  "rules": {
+    "preset-ja-spacing": true,
+    "preset-ja-technical-writing": {
+      "ja-no-mixed-period": {
+        "periodMark": "．"
+      }
+    },
+    "spellcheck-tech-word": true
+  }
+}
