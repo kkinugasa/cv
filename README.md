@@ -34,6 +34,17 @@
 2011/04|東京大学 理科1類 入学|
 2011/03|白陵高等学校 卒業|
 
+## 資格
+
+年月|資格名
+--|--
+2020/04-2022/04|GCP Associate Cloud Engineer
+2019/12-2021/12|GCP Professional Cloud Developer
+2019/08-2021/08|GCP Professional Data Engineer
+2019/06|データベーススペシャリスト
+2018/06-2022/06|GCP Professional Cloud Architect
+2017/11-2023/03|医療情報技術師
+
 ## 技術スタック
 
 ### スキルレベル定義
