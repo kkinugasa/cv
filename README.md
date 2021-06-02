@@ -373,6 +373,7 @@ APIマーケットに出店
   - Cloud Functions
   - Cloud Pub/Sub
   - Cloud Memorystore
+  - Cloud Storage
 
 #### 開発規模
 
@@ -382,4 +383,5 @@ APIマーケットに出店
 
 - AIアルゴリズムは別メンバー担当
 - 外部からリクエストを捌くフロントのRest APIをGo言語で実装し，高速化
-- AI部分はPythonで実装し，キューとしてRedisを使用
+- AI部分はPythonで実装し
+- Redisはキューとして使用
