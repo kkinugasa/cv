@@ -1,0 +1,7 @@
+{
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false,
+    "editor.defaultFormatter": "taichi.vscode-textlint",
+    "editor.formatOnSave": true
+  }
+}
